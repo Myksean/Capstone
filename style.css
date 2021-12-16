@@ -1,0 +1,27 @@
+html {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+}
+
+body {
+  padding: 20px;
+}
+
+button {
+  margin-top: 20px;
+  line-height: 50px;
+  font-weight: bold;
+  font-size: larger;
+  padding: 0 40px;
+  background: oldlace;
+  border: black;
+}
+button:hover {
+  cursor: pointer;
+  color:blue;
+}
